@@ -14,7 +14,7 @@ $query = mysqli_query($con, $sql);
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link href="CSS/style.css" rel="stylesheet">
-    <title>Jhoan Celis - CRUD</title>
+    <title>Jhoan Sebastian Celis - CRUD</title>
 </head>
 
 <body>
@@ -65,5 +65,6 @@ $query = mysqli_query($con, $sql);
     </div>
 
 </body>
+
 
 </html>

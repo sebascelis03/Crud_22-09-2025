@@ -1,4 +1,4 @@
-* {
+* { 
     box-sizing: border-box;
     margin: 0;
     padding: 0;
@@ -103,4 +103,5 @@ table th{
     color: #fff;
     text-align: center;
     font-weight: bold;
+
 }

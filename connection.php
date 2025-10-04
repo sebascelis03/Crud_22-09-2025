@@ -1,5 +1,5 @@
 <?php
-
+ 
 function connection(){
     $host = "localhost";
     $user = "root";
@@ -14,6 +14,7 @@ function connection(){
     return $connect;
 
 }
+
 
 
 ?>
